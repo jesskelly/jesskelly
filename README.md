@@ -5,7 +5,7 @@
 # 🌱 I’m currently learning ...
 - to expand my skills in data analytics so I can pursue a career in the field. 
 # 📫 find me ...
-[LinkedIn](www.linkedin.com/in/jessica-kelly-a15b84113)
+- [LinkedIn](www.linkedin.com/in/jessica-kelly-a15b84113)
 <!---
 jesskelly/jesskelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
